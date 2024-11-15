@@ -1,1 +1,1 @@
-# TPC-DS_SB# TPC-DS-SB
+# TPC-DS-SB
